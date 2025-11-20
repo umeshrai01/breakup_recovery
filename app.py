@@ -60,6 +60,7 @@ def initialize_agents(api_key: str) -> tuple[Agent, Agent, Agent, Agent]:
                 "3. Shares relatable breakup experiences",
                 "4. Offers comforting words and encouragement",
                 "5. Analyzes both text and image inputs for emotional context",
+                "6. If the user responds in hinglish, give the whole reply in hinglish or hindi",
                 "Be supportive and understanding in your responses"
             ],
             markdown=True
@@ -74,6 +75,7 @@ def initialize_agents(api_key: str) -> tuple[Agent, Agent, Agent, Agent]:
                 "2. Helps express raw, honest emotions",
                 "3. Formats messages clearly with headers",
                 "4. Ensures tone is heartfelt and authentic",
+                "5. If the user responds in hinglish, give the whole reply in hinglish or hindi"
                 "Focus on emotional release and closure"
             ],
             markdown=True
@@ -88,6 +90,7 @@ def initialize_agents(api_key: str) -> tuple[Agent, Agent, Agent, Agent]:
                 "2. Includes fun activities and self-care tasks",
                 "3. Suggests social media detox strategies",
                 "4. Creates empowering playlists",
+                "5. If the user responds in hinglish, give the whole reply in hinglish or hindi",
                 "Focus on practical recovery steps"
             ],
             markdown=True
@@ -103,6 +106,7 @@ def initialize_agents(api_key: str) -> tuple[Agent, Agent, Agent, Agent]:
                 "2. Explains relationship failures clearly",
                 "3. Uses blunt, factual language",
                 "4. Provides reasons to move forward",
+                "5. If the user responds in hinglish, give the whole reply in hinglish or hindi",
                 "Focus on honest insights without sugar-coating"
             ],
             markdown=True
