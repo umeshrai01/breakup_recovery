@@ -123,7 +123,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("💔 Breakup Recovery Squad")
+st.title("💔 Breakup Recovery App")
 st.markdown("""
 ### Your AI-powered breakup recovery team is here to help!
 Share your feelings and chat screenshots, and we'll help you navigate through this tough time.
