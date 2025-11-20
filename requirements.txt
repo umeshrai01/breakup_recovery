@@ -2,5 +2,5 @@ streamlit
 pillow
 agno
 google-genai
-duckduckgo-search
+ddgs
 python-dotenv
